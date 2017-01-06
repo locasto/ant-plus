@@ -82,3 +82,5 @@ user NVM space of the device"
 
 Requested Response Messages. Encryption Mode Params. Length: varies. Id: 0x7D.
 weirdness: 3 valid lengths
+
+Here is more wisdom.
